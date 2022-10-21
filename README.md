@@ -1,5 +1,6 @@
 # Dat250Social-Insecurity
 Project1
+
 I used OWASP to find the vulnerabilities in the application and have performed some configuration.
 I begun by setting up local proxy in OWASP.
 Then I set sup the local proxy in my browser to mach with the one I craeted in OWASP:
