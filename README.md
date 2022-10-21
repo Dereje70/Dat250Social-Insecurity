@@ -20,3 +20,4 @@ By using OWASP ZAP built in functionalities, I have found around 25 Vulnerabilit
 
 After the scanning I tried to perform Fuzzer and brute force attack and have got some payloads, which we can see on the attched pictures. As a result I have managed to get a user name and password as seen picture (Attack result 04.jpg and OWASP Attack & Fuzz 03.jpg).
 
+https://www.overleaf.com/project/6352a7ee2b1df146c2468f9b
