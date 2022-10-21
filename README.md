@@ -8,5 +8,5 @@ Then I copied the Dynamic SSL certificate from OWASP for the proper work of prox
 
 Bu using OWASP ZAP built in functionalities, I have found around 25 Vulnerabilities/Alerts (as seen on Vulnerabilities.jpg), which we can use to attack the web application.
 
-After the scanning I tried to perform brute force attack and have got some payloads, which we can see on the attched pictures. As a result I have managed to get a user name and password see picture (Attack result 04.jpg).
+After the scanning I tried to perform brute force attack and have got some payloads, which we can see on the attched pictures. As a result I have managed to get a user name and password see picture (Attack result 04.jpg and OWASP Attack & Fuzz 03.jpg).
 
