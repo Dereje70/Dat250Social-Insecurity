@@ -23,7 +23,7 @@ To set up the working environment, the following programs need to be downloaded 
 
 I used OWASP ZAP to uncover vulnerabilities on the web application and have performed some configuration before performing scaning.
 
-I begun by settings next to the Connection spot, then make sure it's set to Manual proxy configuration and enter 127.0.0.1 as the HTTP Proxy and 8080 as the Port.Then I set sup the local proxy in my browser to mach with the one I craeted in OWASP.
+I begun by settings next to the Connection spot, then make sure it's set to Manual proxy configuration and enter 127.0.0.1 as the HTTP Proxy and 8080 as the Port.Then I set sup the local proxy in my browser to mach with the one I created in OWASP.
 
 Then I copied the Dynamic SSL certificate from OWASP for the proper work of proxy in my browser and imporetd it in to my browser so that they work in harmony.
 By using OWASP ZAP built in functionalities, I have found around 25 Vulnerabilities/Alerts (as seen on Vulnerabilities.jpg), which we can use to attack the web application.
