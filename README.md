@@ -3,16 +3,6 @@
 
 
 
-
- (For the respective OS in your computer)
-
-Download page: https://www.virtualbox.org/wiki/Downloads
-
-2.   Attacker machine- Kali Linux
-
-Download page- https://www.kali.org/downloads/
-
-
 My penetration testing is set up on Virtual Box as it allows me to create Virtual Machines inside the current OS.
 
 To set up the working environment, the following programs need to be downloaded and installed:
